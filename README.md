@@ -8,7 +8,7 @@ Soy desarrollador de aplicaciones y apasionado de la tecnología. Tengo la exper
 
 * 🌍  Soy de Córdoba, España
 * ✉️  Puedes contactarme en [rubengarzonzafra@gmail.com](mailto:rubengarzonzafra@gmail.com)
-* 🧠  Estoy aprendiendo Backend Java y JS/TS
+* 🧠  Estoy aprendiendo Backend JS/TS
 
 ### Skills
 
