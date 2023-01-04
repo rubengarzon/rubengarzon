@@ -1,7 +1,7 @@
 Hola 👋 Mi nombre es Rubén Garzón
 =============================
 
-Fullstack Developer
+FrontEnd Developer
 -------------------
 
 Soy desarrollador de aplicaciones y apasionado de la tecnología. Tengo la experiencia de haber trabajado en grandes empresas como Atmira, Ayesa y Crisoft aunque todavía me queda un largo camino porque esto solo acaba de empezar. Empecé en la programación con tan solo 10 años tocando HTML, tenía claro desde pequeño que me quería dedicar a la programación. A partir del 2019 conseguí las titulaciones de Técnico Superior de Desarrollo de Aplicaciones Web y Técnico Superior de Desarrollo de Aplicaciones Multiplataforma. Y, desde entonces, no he parado ni un momento para seguir trabajando como desarrollador y seguir aprendiendo.
