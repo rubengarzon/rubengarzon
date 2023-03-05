@@ -4,9 +4,13 @@ Hola 👋 Mi nombre es Rubén Garzón
 FrontEnd Developer
 -------------------
 
-* 🌍  Soy de Córdoba, España
-* ✉️  Puedes contactarme en [rubengarzonzafra@gmail.com](mailto:rubengarzonzafra@gmail.com)
-* 🧠  Me gusta enterarme de las novedades del Desarrollo
+* 👨‍💻 Desarrollador de aplicaciones
+* 💼 Experiencia laboral en Programación
+* 👨‍🏫 Técnico Superior en Desarrollo de Aplicaciones Web
+* 👨‍🏫 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
+* 👨‍🏫 Técnico en Sistemas Microinformáticos y Redes
+* ✉️ Puedes contactarme en [rubengarzonzafra@gmail.com](mailto:rubengarzonzafra@gmail.com)
+* 🧠 Me gusta enterarme de las novedades del Desarrollo
 
 ### Skills
 
@@ -23,7 +27,7 @@ FrontEnd Developer
 
 ### Sociales
 
-<p align="left"> <a href="https://www.github.com/rubengarzon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ruben-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/rubengarzon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ruben-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://twitter.com/rubengarzondev" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721677-twitter_108058.png" width="32" height="32" /></a></p>
 
 ### Insignias
 
